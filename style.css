@@ -1,0 +1,32 @@
+body *{
+    background-color: #6495EE;
+    display: flex;
+    color: white;
+    font-family: Montserrat, sans-serif;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    text-decoration: none;
+}
+img {
+    padding: 5px;
+    height: 60px;
+    width: 68px;
+    margin-left: -315px;
+    margin-right: -600px;
+}
+h1 {
+    display: flex;
+    font-size: large;
+    padding: 20px;
+    font-weight: 100;
+    margin-right: -625px;
+}
+ul {
+    display: flex;
+    font-size: medium;
+    font-family: Montserrat, sans-serif;
+    padding: 20px;
+    margin-right: 5px;
+    width: 70%;
+}
